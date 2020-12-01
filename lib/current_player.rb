@@ -9,4 +9,5 @@ def turn_count(board)
     turn += 1 
     end
   end
+  return turns
 end
